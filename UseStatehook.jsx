@@ -10,4 +10,5 @@ return(
   
 )
 }
+export default App
 //if anyone having something please drop comment we add or merge your thing thasall
