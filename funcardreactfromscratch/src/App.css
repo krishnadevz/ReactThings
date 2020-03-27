@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.github{
+	padding: 10px;
+position: relative;
+bottom: 0;
+font-size: 2.5em;
+
+}
+.github:hover{
+	color:grey;
+}
+
+
+
+@media (min-width: 576px) {
+	html {
+		font-size: 14px;
+	}
+}
+
+@media (min-width: 768px) {
+	html {
+		font-size: 16px;
+	}
+}
+
+@media (min-width: 992px) {
+	html {
+		font-size: 18px;
+	}
+}
+
+@media (min-width: 1200px) {
+	html {
+		font-size: 20px;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+  /* styles for narrow screens */
+}
+
+
+
+
+.project-title {
+font-weight: bold;
+}
+/*media query for the smartphones*/
+
+body{
+font-family: 'Reem Kufi', sans-serif;
+
+}
+/* Dark Mode*/
