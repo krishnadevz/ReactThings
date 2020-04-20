@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+i used exchangerGenerator api and react basis concepts 
+# Live preview 🔽
+<img src="https://github.com/krishnadevz/ReactThings/blob/master/currency/curr.png" alt="currr">
+Tutorial link
+<a href="https://www.youtube.com/watch?v=XN5elYWiSuw&t=3s" target="_blank">TutorialYoutube</a>
+
+
 
 ## Available Scripts
 
