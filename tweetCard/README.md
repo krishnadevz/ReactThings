@@ -1,3 +1,12 @@
+# TweetCard App in reactjs
+**Technologies used in this app**
+* basic reactjs components concepts and css
+* react-bootstrap libary for building tweet social card
+
+# Demo
+<img src="https://github.com/krishnadevz/ReactThings/blob/master/tweetCard/Annotation%202020-05-09%20195546.png" alt="mysketch my code">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
