@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa {
+  padding: 10px;
+  font-size: 12px;
+  width: 30px;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  display: flex-start;
+  justify-content: space-between;
+}
+.fa:hover{
+	color:grey;
+}
+.h6{
+  text-align: center;
+  top: 0%;
+
+}
+.card{
+  text-align: center;
+}
